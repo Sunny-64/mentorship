@@ -12,8 +12,8 @@ const Services = () => {
           </p>
         </div>
         <div className="grid md:grid-cols-3 gap-8">
-          <div className="bg-gradient-to-br from-purple-50 to-purple-100 p-8 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 border border-purple-200">
-            <div className="w-16 h-16 bg-gradient-to-br from-purple-500 to-purple-600 rounded-2xl flex items-center justify-center mb-6 shadow-lg">
+          <div className="bg-gradient-to-br from-slate-50 to-slate-100 p-8 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 border border-slate-200">
+            <div className="w-16 h-16 bg-gradient-to-br from-slate-500 to-slate-600 rounded-2xl flex items-center justify-center mb-6 shadow-lg">
               <MessageCircle className="w-8 h-8 text-white" />
             </div>
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Mock Interviews</h3>
@@ -23,29 +23,29 @@ const Services = () => {
             </p>
             <ul className="space-y-3 mb-6">
               <li className="flex items-center text-gray-600">
-                <CheckCircle className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
+                <CheckCircle className="w-5 h-5 text-emerald-500 mr-3 flex-shrink-0" />
                 <span>Technical & behavioral questions</span>
               </li>
               <li className="flex items-center text-gray-600">
-                <CheckCircle className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
+                <CheckCircle className="w-5 h-5 text-emerald-500 mr-3 flex-shrink-0" />
                 <span>Industry-specific scenarios</span>
               </li>
               <li className="flex items-center text-gray-600">
-                <CheckCircle className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
+                <CheckCircle className="w-5 h-5 text-emerald-500 mr-3 flex-shrink-0" />
                 <span>Real-time feedback & tips</span>
               </li>
               <li className="flex items-center text-gray-600">
-                <CheckCircle className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
+                <CheckCircle className="w-5 h-5 text-emerald-500 mr-3 flex-shrink-0" />
                 <span>45-60 minute sessions</span>
               </li>
             </ul>
-            <button className="w-full bg-purple-600 text-white py-3 rounded-lg hover:bg-purple-700 transition-colors font-semibold">
+            <button className="w-full bg-slate-600 text-white py-3 rounded-lg hover:bg-slate-700 transition-colors font-semibold">
               Schedule Mock Interview
             </button>
           </div>
 
-          <div className="bg-gradient-to-br from-pink-50 to-pink-100 p-8 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 border border-pink-200">
-            <div className="w-16 h-16 bg-gradient-to-br from-pink-500 to-pink-600 rounded-2xl flex items-center justify-center mb-6 shadow-lg">
+          <div className="bg-gradient-to-br from-blue-50 to-blue-100 p-8 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 border border-blue-200">
+            <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-blue-600 rounded-2xl flex items-center justify-center mb-6 shadow-lg">
               <FileText className="w-8 h-8 text-white" />
             </div>
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Resume Review</h3>
@@ -55,29 +55,29 @@ const Services = () => {
             </p>
             <ul className="space-y-3 mb-6">
               <li className="flex items-center text-gray-600">
-                <CheckCircle className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
+                <CheckCircle className="w-5 h-5 text-emerald-500 mr-3 flex-shrink-0" />
                 <span>ATS optimization</span>
               </li>
               <li className="flex items-center text-gray-600">
-                <CheckCircle className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
+                <CheckCircle className="w-5 h-5 text-emerald-500 mr-3 flex-shrink-0" />
                 <span>Content & formatting review</span>
               </li>
               <li className="flex items-center text-gray-600">
-                <CheckCircle className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
+                <CheckCircle className="w-5 h-5 text-emerald-500 mr-3 flex-shrink-0" />
                 <span>Industry-specific suggestions</span>
               </li>
               <li className="flex items-center text-gray-600">
-                <CheckCircle className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
+                <CheckCircle className="w-5 h-5 text-emerald-500 mr-3 flex-shrink-0" />
                 <span>Before & after comparison</span>
               </li>
             </ul>
-            <button className="w-full bg-pink-600 text-white py-3 rounded-lg hover:bg-pink-700 transition-colors font-semibold">
+            <button className="w-full bg-blue-600 text-white py-3 rounded-lg hover:bg-blue-700 transition-colors font-semibold">
               Submit Resume for Review
             </button>
           </div>
 
-          <div className="bg-gradient-to-br from-blue-50 to-blue-100 p-8 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 border border-blue-200">
-            <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-blue-600 rounded-2xl flex items-center justify-center mb-6 shadow-lg">
+          <div className="bg-gradient-to-br from-amber-50 to-amber-100 p-8 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 border border-amber-200">
+            <div className="w-16 h-16 bg-gradient-to-br from-amber-500 to-amber-600 rounded-2xl flex items-center justify-center mb-6 shadow-lg">
               <Lightbulb className="w-8 h-8 text-white" />
             </div>
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Career Guidance</h3>
@@ -87,23 +87,23 @@ const Services = () => {
             </p>
             <ul className="space-y-3 mb-6">
               <li className="flex items-center text-gray-600">
-                <CheckCircle className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
+                <CheckCircle className="w-5 h-5 text-emerald-500 mr-3 flex-shrink-0" />
                 <span>Career path planning</span>
               </li>
               <li className="flex items-center text-gray-600">
-                <CheckCircle className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
+                <CheckCircle className="w-5 h-5 text-emerald-500 mr-3 flex-shrink-0" />
                 <span>Job search strategies</span>
               </li>
               <li className="flex items-center text-gray-600">
-                <CheckCircle className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
+                <CheckCircle className="w-5 h-5 text-emerald-500 mr-3 flex-shrink-0" />
                 <span>LinkedIn optimization</span>
               </li>
               <li className="flex items-center text-gray-600">
-                <CheckCircle className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
+                <CheckCircle className="w-5 h-5 text-emerald-500 mr-3 flex-shrink-0" />
                 <span>Networking advice</span>
               </li>
             </ul>
-            <button className="w-full bg-blue-600 text-white py-3 rounded-lg hover:bg-blue-700 transition-colors font-semibold">
+            <button className="w-full bg-amber-600 text-white py-3 rounded-lg hover:bg-amber-700 transition-colors font-semibold">
               Book Career Consultation
             </button>
           </div>
