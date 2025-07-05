@@ -14,8 +14,8 @@ const About = () => {
               </p>
               <p>
                 I remember my own struggles with interview preparation, resume writing, and understanding what employers
-                really look for. That's why I decided to dedicate my time to helping students like you overcome these
-                challenges.
+                really look for. That{"'"}s why I decided to dedicate my time to helping students like you overcome
+                these challenges.
               </p>
               <p>
                 This mentorship program is my way of giving back to the community. Every session I conduct, every resume

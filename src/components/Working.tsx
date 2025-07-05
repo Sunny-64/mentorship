@@ -26,7 +26,7 @@ const Working = () => {
             </div>
             <h3 className="text-xl font-semibold text-gray-900 mb-4">2. Schedule Session</h3>
             <p className="text-gray-600">
-              We'll find a time that works for both of us - evenings and weekends available
+              We&apos;ll find a time that works for both of us - evenings and weekends available
             </p>
           </div>
           <div className="text-center group">

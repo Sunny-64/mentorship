@@ -14,13 +14,13 @@ const Hero = () => {
               </span>
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
-              Hi, I'm{' '}
+              Hi, I&apos;m{' '}
               <span className="bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">Meeta</span>
             </h1>
             <h2 className="text-2xl md:text-3xl text-gray-700 mb-6 font-semibold">Your Personal Career Mentor</h2>
             <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-              I'm passionate about helping students like you land their dream jobs. Through free 1-on-1 mock interviews,
-              resume reviews, and career guidance, I'm here to support your journey to success. This is my way of giving
+              I&apos;m passionate about helping students like you land their dream jobs. Through free 1-on-1 mock interviews,
+              resume reviews, and career guidance, I&apos;m here to support your journey to success. This is my way of giving
               back to the community and helping the next generation of professionals thrive.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 mb-8">

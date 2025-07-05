@@ -7,7 +7,7 @@ const Cta = () => {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">Your Dream Job is Within Reach</h2>
           <p className="text-xl text-purple-100 mb-8 max-w-2xl mx-auto">
-            Don't let interview anxiety or resume concerns hold you back. Let's work together to unlock your potential
+            Don&apos;t let interview anxiety or resume concerns hold you back. Let&apos;s work together to unlock your potential
             and land the job you deserve - completely free, because I believe in your success.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

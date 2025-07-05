@@ -7,7 +7,7 @@ const Contact = () => {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Ready to Get Started?</h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Reach out today and let's work together to achieve your career goals
+            Reach out today and let&apos;s work together to achieve your career goals
           </p>
         </div>
         <div className="grid lg:grid-cols-2 gap-16 items-center">
@@ -34,7 +34,7 @@ const Contact = () => {
                 <div>
                   <h3 className="font-semibold text-gray-900 mb-2">Availability</h3>
                   <p className="text-gray-600">
-                    Evenings and weekends work best for me. I'm flexible with time zones and can accommodate most
+                    Evenings and weekends work best for me. I&apos;m flexible with time zones and can accommodate most
                     schedules including international students.
                   </p>
                 </div>
@@ -46,7 +46,7 @@ const Contact = () => {
                 <div>
                   <h3 className="font-semibold text-gray-900 mb-2">My Commitment</h3>
                   <p className="text-gray-600">
-                    I'm committed to your success and will provide honest, constructive feedback to help you grow. Every
+                    I&apos;m committed to your success and will provide honest, constructive feedback to help you grow. Every
                     interaction is confidential and judgment-free.
                   </p>
                 </div>
@@ -62,7 +62,7 @@ const Contact = () => {
               </li>
               <li className="flex items-start space-x-3">
                 <CheckCircle className="w-6 h-6 text-green-500 flex-shrink-0 mt-0.5" />
-                <span className="text-gray-700">Target roles or companies you're interested in</span>
+                <span className="text-gray-700">Target roles or companies you&apos;re interested in</span>
               </li>
               <li className="flex items-start space-x-3">
                 <CheckCircle className="w-6 h-6 text-green-500 flex-shrink-0 mt-0.5" />
@@ -74,7 +74,7 @@ const Contact = () => {
               </li>
               <li className="flex items-start space-x-3">
                 <CheckCircle className="w-6 h-6 text-green-500 flex-shrink-0 mt-0.5" />
-                <span className="text-gray-700">Any specific challenges you're facing</span>
+                <span className="text-gray-700">Any specific challenges you&apos;re facing</span>
               </li>
             </ul>
             <div className="mt-8">

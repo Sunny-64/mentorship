@@ -10,7 +10,7 @@ const Navbar = () => {
               <Heart className="w-6 h-6 text-white" />
             </div>
             <div>
-              <span className="text-xl font-bold text-gray-900">Meeta's Mentorship</span>
+              <span className="text-xl font-bold text-gray-900">Meeta&apos;s Mentorship</span>
               <p className="text-xs text-gray-500">Free Career Guidance</p>
             </div>
           </div>

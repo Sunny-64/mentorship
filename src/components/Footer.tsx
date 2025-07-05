@@ -11,7 +11,7 @@ const Footer = () => {
                   <Heart className="w-6 h-6 text-white" />
                 </div>
                 <div>
-                  <span className="text-xl font-bold">Meeta's Mentorship</span>
+                  <span className="text-xl font-bold">Meeta&apos;s Mentorship</span>
                   <p className="text-xs text-gray-400">Free Career Guidance</p>
                 </div>
               </div>
@@ -69,7 +69,7 @@ const Footer = () => {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 Meeta's Career Mentorship. Made with ❤️ for students everywhere.</p>
+            <p>&copy; 2024 Meeta&apos;s Career Mentorship. Made with ❤️ for students everywhere.</p>
           </div>
         </div>
       </footer>

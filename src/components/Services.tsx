@@ -50,7 +50,7 @@ const Services = () => {
             </div>
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Resume Review</h3>
             <p className="text-gray-600 mb-6 leading-relaxed">
-              Get your resume professionally reviewed and optimized to pass ATS systems and catch recruiters' attention.
+              Get your resume professionally reviewed and optimized to pass ATS systems and catch recruiters&apos; attention.
               Receive detailed feedback and suggestions for improvement.
             </p>
             <ul className="space-y-3 mb-6">
