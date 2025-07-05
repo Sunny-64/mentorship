@@ -10,7 +10,7 @@ const Faqs = () => {
     setOpenFaq(openFaq === index ? null : index);
   };
   return (
-    <section id="faq" className="py-20 bg-gradient-to-br from-gray-50 to-purple-50">
+    <section id="faq" className="py-20 bg-gradient-to-br from-gray-50 to-slate-50">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Frequently Asked Questions</h2>
@@ -25,9 +25,9 @@ const Faqs = () => {
               >
                 <span className="font-semibold text-gray-900 text-lg">{faq.question}</span>
                 {openFaq === index ? (
-                  <ChevronUp className="w-6 h-6 text-purple-600 flex-shrink-0" />
+                  <ChevronUp className="w-6 h-6 text-slate-600 flex-shrink-0" />
                 ) : (
-                  <ChevronDown className="w-6 h-6 text-purple-600 flex-shrink-0" />
+                  <ChevronDown className="w-6 h-6 text-slate-600 flex-shrink-0" />
                 )}
               </button>
               {openFaq === index && (
