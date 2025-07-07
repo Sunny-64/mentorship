@@ -15,9 +15,9 @@ const Reviews = () => {
           <div className="bg-gradient-to-br from-slate-50 to-slate-100 p-8 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 border border-slate-200">
             <Quote className="w-8 h-8 text-slate-600 mb-4" />
             <p className="text-gray-700 mb-6 leading-relaxed">
-              "Meeta&apos;s mock interviews were a game-changer! She helped me identify my weak points and gave me specific
-              strategies to improve. After 3 sessions, I felt confident enough to interview at Google and got the
-              offer!"
+              &quot;Meeta&apos;s mock interviews were a game-changer! She helped me identify my weak points and gave me
+              specific strategies to improve. After 3 sessions, I felt confident enough to interview at Google and got
+              the offer!&quot;
             </p>
             <div className="flex items-center">
               <div className="w-12 h-12 bg-gradient-to-br from-slate-400 to-slate-500 rounded-full flex items-center justify-center text-white font-semibold">
@@ -38,8 +38,8 @@ const Reviews = () => {
           <div className="bg-gradient-to-br from-blue-50 to-blue-100 p-8 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 border border-blue-200">
             <Quote className="w-8 h-8 text-blue-600 mb-4" />
             <p className="text-gray-700 mb-6 leading-relaxed">
-              "My resume was getting zero responses until Meeta reviewed it. She completely transformed it, and within 2
-              weeks I had 5 interview calls! Her guidance throughout the process was invaluable."
+              &quot;My resume was getting zero responses until Meeta reviewed it. She completely transformed it, and
+              within 2 weeks I had 5 interview calls! Her guidance throughout the process was invaluable.&quot;
             </p>
             <div className="flex items-center">
               <div className="w-12 h-12 bg-gradient-to-br from-blue-400 to-blue-500 rounded-full flex items-center justify-center text-white font-semibold">
@@ -60,8 +60,8 @@ const Reviews = () => {
           <div className="bg-gradient-to-br from-emerald-50 to-emerald-100 p-8 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 border border-emerald-200">
             <Quote className="w-8 h-8 text-emerald-600 mb-4" />
             <p className="text-gray-700 mb-6 leading-relaxed">
-              "As an international student, I was nervous about cultural fit questions. Meeta helped me understand what
-              employers really want to hear and how to present my unique background as a strength."
+              &quot;As an international student, I was nervous about cultural fit questions. Meeta helped me understand
+              what employers really want to hear and how to present my unique background as a strength.&quot;
             </p>
             <div className="flex items-center">
               <div className="w-12 h-12 bg-gradient-to-br from-emerald-400 to-emerald-500 rounded-full flex items-center justify-center text-white font-semibold">
@@ -82,8 +82,8 @@ const Reviews = () => {
           <div className="bg-gradient-to-br from-amber-50 to-amber-100 p-8 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 border border-amber-200">
             <Quote className="w-8 h-8 text-amber-600 mb-4" />
             <p className="text-gray-700 mb-6 leading-relaxed">
-              "Meeta didn&apos;t just help with interview prep - she helped me understand my career goals and create a
-              strategic plan. Her mentorship extended far beyond just getting a job."
+              &quot;Meeta didn&apos;t just help with interview prep - she helped me understand my career goals and
+              create a strategic plan. Her mentorship extended far beyond just getting a job.&quot;
             </p>
             <div className="flex items-center">
               <div className="w-12 h-12 bg-gradient-to-br from-amber-400 to-amber-500 rounded-full flex items-center justify-center text-white font-semibold">
@@ -104,8 +104,8 @@ const Reviews = () => {
           <div className="bg-gradient-to-br from-indigo-50 to-indigo-100 p-8 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 border border-indigo-200">
             <Quote className="w-8 h-8 text-indigo-600 mb-4" />
             <p className="text-gray-700 mb-6 leading-relaxed">
-              "I was struggling with technical interviews until Meeta taught me how to think out loud and structure my
-              problem-solving approach. Now I actually enjoy coding interviews!"
+              &quot;I was struggling with technical interviews until Meeta taught me how to think out loud and structure
+              my problem-solving approach. Now I actually enjoy coding interviews!&quot;
             </p>
             <div className="flex items-center">
               <div className="w-12 h-12 bg-gradient-to-br from-indigo-400 to-indigo-500 rounded-full flex items-center justify-center text-white font-semibold">
@@ -126,8 +126,8 @@ const Reviews = () => {
           <div className="bg-gradient-to-br from-violet-50 to-violet-100 p-8 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 border border-violet-200">
             <Quote className="w-8 h-8 text-violet-600 mb-4" />
             <p className="text-gray-700 mb-6 leading-relaxed">
-              "What I appreciated most about Meeta was her genuine care and patience. She made me feel comfortable
-              discussing my insecurities and helped me build real confidence, not just interview skills."
+              &quot;What I appreciated most about Meeta was her genuine care and patience. She made me feel comfortable
+              discussing my insecurities and helped me build real confidence, not just interview skills.&quot;
             </p>
             <div className="flex items-center">
               <div className="w-12 h-12 bg-gradient-to-br from-violet-400 to-violet-500 rounded-full flex items-center justify-center text-white font-semibold">
